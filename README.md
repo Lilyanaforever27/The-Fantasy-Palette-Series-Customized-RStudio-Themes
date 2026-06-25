@@ -6,12 +6,24 @@ The Fantasy Palette Series is a collection of customized RStudio themes inspired
 2. **Kiana's Summer (coming soon in Summer)**: The second palette, Kiana’s Summer, is designed for Lilyana’s friend. It combines different shades of blue to evoke the imagery *beach*, *ocean*, and *calmness*.
 
 
-# How to apply in RStduio
+# How to apply the RStduio Theme
 Option 1: 
+a. Click the rstheme file you would like to add from the above
+b. Click on "Raw" on the top right of the bar
+c. It should load a new page, find the url and copy it. The URL should look like something like: https://raw.githubusercontent.com/Lilyanaforever27/The-Fantasy-Palette-Series-Customized-RStudio-Themes/refs/heads/main/lilyana_daydream.rstheme
+d. Open Rstudio and use the code below, add the url
 rstudioapi::addTheme(
-  "Use Link for the raw theme",
+  "PASTE THE URL YOU COPIED from the last step, don't forget the quotation mark",
   apply = TRUE,
   force = TRUE)
-Option 2: Click the r rtheme file and download-> open R studio-Tools (from the top bar)-> 
-          drop down menu and find "Global Options"-> "Appearance" from the left column -> "Add" in the middle
-          -> Find the R theme you downloaded and click -> it should be in the "Editor Theme" now-> click "Apply" or "OK"
+  
+Option 2: 
+a. Click the r rtheme file and download to Desktop of your laptop (or anywhere you prefer)
+b. open R studio, and From the top bar, find "Tools" 
+c. Drop down the "Tools" menu, we will find "Global Options" at the end
+d. It should pop up a new window, now click "Appearance" from the left column 
+e. click "Add" in the middle
+f. Find the R theme you downloaded and click on the desktop (or anywhere you saved)
+g. The new theme should be in the "Editor Theme" section in the middle column now
+h. click "Apply" or "OK"
+
