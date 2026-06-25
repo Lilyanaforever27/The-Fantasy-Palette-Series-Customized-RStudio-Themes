@@ -31,6 +31,9 @@ Download the `.rstheme` file.
 7. Click **Apply** or **OK**.
 8. Success!Congrats, you did it!!!
 
-# Theme Preview
-**1. ![Lilyana's Daydream (2026) preview](preview.png)
+# Themes Preview
+### 1. Lilyana's Daydream (2026)
+![Editor Preview](images/Lilyana_daydream1.png)
+![Console Preview](images/Lilyana_daydream2.png)
+
 
