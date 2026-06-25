@@ -7,23 +7,26 @@ The Fantasy Palette Series is a collection of customized RStudio themes inspired
 
 
 # How to apply the RStduio Theme
-Option 1: 
-a. Click the rstheme file you would like to add from the above
-b. Click on "Raw" on the top right of the bar
-c. It should load a new page, find the url and copy it. The URL should look like something like: https://raw.githubusercontent.com/Lilyanaforever27/The-Fantasy-Palette-Series-Customized-RStudio-Themes/refs/heads/main/lilyana_daydream.rstheme
-d. Open Rstudio and use the code below, add the url
+Option 1: Install via URL
+1. Click the `.rstheme` file you would like to install.
+2. Click **Raw** in the upper-right corner.
+3. Copy the URL from your browser's address bar. The URL should look like something like: https://raw.githubusercontent.com/Lilyanaforever27/The-Fantasy-Palette-Series-Customized-RStudio-Themes/refs/heads/main/lilyana_daydream.rstheme
+4. Open RStudio and run:
+
+```r
 rstudioapi::addTheme(
-  "PASTE THE URL YOU COPIED from the last step, don't forget the quotation mark",
+  "PASTE_THE_RAW_URL_HERE",
   apply = TRUE,
   force = TRUE)
-  
-Option 2: 
-a. Click the r rtheme file and download to Desktop of your laptop (or anywhere you prefer)
-b. open R studio, and From the top bar, find "Tools" 
-c. Drop down the "Tools" menu, we will find "Global Options" at the end
-d. It should pop up a new window, now click "Appearance" from the left column 
-e. click "Add" in the middle
-f. Find the R theme you downloaded and click on the desktop (or anywhere you saved)
-g. The new theme should be in the "Editor Theme" section in the middle column now
-h. click "Apply" or "OK"
+```
+5. Success!Congrats, you did it!!!
 
+Option 2: 
+Download the `.rstheme` file.
+2. Open **RStudio**.
+3. Go to **Tools → Global Options → Appearance**.
+4. Click **Add...**.
+5. Select the downloaded `.rstheme` file.
+6. Choose the theme under **Editor theme**.
+7. Click **Apply** or **OK**.
+8. Success!Congrats, you did it!!!
