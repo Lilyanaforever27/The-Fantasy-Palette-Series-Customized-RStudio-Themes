@@ -11,15 +11,14 @@ Option 1: Install via URL
 1. Click the `.rstheme` file you would like to install.
 2. Click **Raw** in the upper-right corner.
 3. Copy the URL from your browser's address bar. The URL should look like something like: https://raw.githubusercontent.com/Lilyanaforever27/The-Fantasy-Palette-Series-Customized-RStudio-Themes/refs/heads/main/lilyana_daydream.rstheme
-4. Open RStudio and run:
-
+4. Open RStudio and run the code below:
 ```r
 rstudioapi::addTheme(
   "PASTE_THE_RAW_URL_HERE",
   apply = TRUE,
   force = TRUE)
 ```
-5. Success!Congrats, you did it!!!
+5. 🎉 Success! Congrats, you did it!!! Welcome to the Fantasy Palette Series. 🌸
 
 Option 2: 
 Download the `.rstheme` file.
@@ -29,7 +28,7 @@ Download the `.rstheme` file.
 5. Select the downloaded `.rstheme` file.
 6. Choose the theme under **Editor theme**.
 7. Click **Apply** or **OK**.
-8. Success!Congrats, you did it!!!
+8. 🎉 Success! Congrats, you did it!!! Welcome to the Fantasy Palette Series. 🌸
 
 # Themes Preview
 ### 1. Lilyana's Daydream (2026)
