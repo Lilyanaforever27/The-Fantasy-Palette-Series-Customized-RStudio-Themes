@@ -1,4 +1,4 @@
-#🌸🌸🌸 The Fantasy Palette Series Customized RStudio Themes🌸🌸🌸
+# The Fantasy Palette Series Customized RStudio Themes🌸🌸🌸
 The Fantasy Palette Series is a collection of customized RStudio themes inspired by fantasy, cosmetics, and color palettes. Initiated on June 23, 2026, the series is based on Ben Harrap’s RStudio theme Knitted (&lt;https://benharrap.com/post/two-more-rsthemes/>). Many thanks to Ben!
 
 **1. Lilyana's Daydream (aka Lily's Dream, June 24,2026)**: As the first palette of Lilyana's The Fantasy series, **Lilyana's Daydream (2026)** captures the vibe of *fantasy*,*dreaminess*, *Barbie-inspired glamour*, and celebration of *womanhood*.Built around shades of *pink*, *purple*, *blue*, and *yellow*, this palette provides an alternative pink & purple option that existing R themes are missing. The vibrant color palette is designed to remain gentle on the eyes and provide visual comfort during longer coding sessions.
