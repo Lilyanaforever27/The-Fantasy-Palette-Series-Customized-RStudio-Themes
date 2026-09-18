@@ -10,7 +10,7 @@ The Fantasy Palette Series is a collection of customized RStudio themes inspired
 Option 1: Install via URL
 1. Click the `.rstheme` file you would like to install.
 2. Click **Raw** in the upper-right corner.
-3. Copy the URL from your browser's address bar. The URL should look like something like:https://github.com/Lilyanaforever27/The-Fantasy-Palette-Series-Customized-RStudio-Themes/blob/main/lilyana_daydream.rstheme)
+3. Copy the URL from your browser's address bar. The URL should look like something like:https://raw.githubusercontent.com/Lilyanaforever27/The-Fantasy-Palette-Series-Customized-RStudio-Themes/refs/heads/main/lilyana_daydream.rstheme)
 4. Open RStudio and run the code below:
 ```r
 rstudioapi::addTheme(
